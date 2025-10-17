@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **vladmisonh/vladmisonh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+
+### How to find Me:
+
+<p align="center">
+	<a href="https://www.linkedin.com/in/vladyslav-misonh/" target="_blank" title="LinkedIn"><img align="center" src="https://github.com/vladmisonh/vladmisonh/blob/master/Images/linkedin.png" alt="https://www.linkedin.com/in/vladyslav-misonh/" height="30" width="30" /></a>
+</p>
