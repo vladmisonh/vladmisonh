@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 ### How to find Me:
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/vladyslav-misonh/" target="_blank" title="LinkedIn"><img align="center" src="https://github.com/vladmisonh/vladmisonh/tree/main/Images/linkedin.png" alt="https://www.linkedin.com/in/vladyslav-misonh/" height="30" width="30" /></a>
+	<a href="https://www.linkedin.com/in/vladyslav-misonh/" target="_blank" title="LinkedIn"><img align="center" src="https://github.com/vladmisonh/vladmisonh/blob/main/Images/linkedin.png" alt="https://www.linkedin.com/in/vladyslav-misonh/" height="30" width="30" /></a>
 </p>
