@@ -46,7 +46,7 @@ Currently, I’m working on projects related to **real estate trends, public tra
 <p align="center">
 	<a href="https://www.instagram.com/vlmisonh/" target="_blank" title="Instagram"><img align="center" src="https://github.com/vladmisonh/vladmisonh/blob/main/resources/instagram.png" alt="https://www.instagram.com/vlmisonh/" height="45" width="45" /></a>
 	<a href="https://www.linkedin.com/in/vladyslav-misonh/" target="_blank" title="LinkedIn"><img align="center" src="https://github.com/vladmisonh/vladmisonh/blob/main/resources/linkedin.png" alt="https://www.linkedin.com/in/vladyslav-misonh/" height="45" width="45" /></a>
-	<a href="mailto:vladyslavmisonh@gmail.com" target="_blank" title="Email"><img align="center" src="https://github.com/vladmisonh/vladmisonh/blob/main/resources/gmail.png" alt="mailto:vladyslavmisonh@gmail.com" height="5" width="45" /></a>
+	<a href="mailto:vladyslavmisonh@gmail.com" target="_blank" title="Email"><img align="center" src="https://github.com/vladmisonh/vladmisonh/blob/main/resources/gmail.png" alt="mailto:vladyslavmisonh@gmail.com" height="45" width="45" /></a>
 </p>
 
 ---
