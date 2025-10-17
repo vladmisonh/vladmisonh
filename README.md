@@ -23,19 +23,19 @@ Currently, I’m working on projects related to **real estate trends, public tra
 
 <p align="center"> 
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> 
-    <img src="https://github.com/vladmisonh/vladmisonh/blob/main/images/excel.png" alt="Excel" width="40" height="40"/> 
+    <img src="https://github.com/vladmisonh/vladmisonh/blob/main/resources/excel.png" alt="Excel" width="45" height="45"/> 
   </a>
   <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://github.com/vladmisonh/vladmisonh/blob/main/images/sql.png" alt="SQL" width="40" height="40"/> 
+    <img src="https://github.com/vladmisonh/vladmisonh/blob/main/resources/sql.png" alt="SQL" width="45" height="45"/> 
   </a>
   <a href="https://www.python.org/" target="_blank"> 
-    <img src="https://github.com/vladmisonh/vladmisonh/blob/main/images/python.png" alt="Python" width="40" height="40"/> 
+    <img src="https://github.com/vladmisonh/vladmisonh/blob/main/resources/python.png" alt="Python" width="45" height="45"/> 
   </a>
   <a href="https://www.tableau.com/" target="_blank"> 
-    <img src="https://github.com/vladmisonh/vladmisonh/blob/main/images/tableau.png" alt="Tableau" width="50" height="40"/> 
+    <img src="https://github.com/vladmisonh/vladmisonh/blob/main/resources/tableau.png" alt="Tableau" width="60" height="45"/> 
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank"> 
-    <img src="https://github.com/vladmisonh/vladmisonh/blob/main/images/powerbi.png" alt="Power BI" width="40" height="40"/> 
+    <img src="https://github.com/vladmisonh/vladmisonh/blob/main/resources/powerbi.png" alt="Power BI" width="45" height="45"/> 
   </a>
 </p>
 
@@ -44,9 +44,9 @@ Currently, I’m working on projects related to **real estate trends, public tra
 ### How to find Me:
 
 <p align="center">
-	<a href="https://www.instagram.com/vlmisonh/" target="_blank" title="Instagram"><img align="center" src="https://github.com/vladmisonh/vladmisonh/blob/main/images/instagram.png" alt="https://www.instagram.com/vlmisonh/" height="40" width="40" /></a>
-	<a href="https://www.linkedin.com/in/vladyslav-misonh/" target="_blank" title="LinkedIn"><img align="center" src="https://github.com/vladmisonh/vladmisonh/blob/main/images/linkedin.png" alt="https://www.linkedin.com/in/vladyslav-misonh/" height="40" width="40" /></a>
-	<a href="mailto:vladyslavmisonh@gmail.com" target="_blank" title="Email"><img align="center" src="https://github.com/vladmisonh/vladmisonh/blob/main/images/gmail.png" alt="mailto:vladyslavmisonh@gmail.com" height="40" width="40" /></a>
+	<a href="https://www.instagram.com/vlmisonh/" target="_blank" title="Instagram"><img align="center" src="https://github.com/vladmisonh/vladmisonh/blob/main/resources/instagram.png" alt="https://www.instagram.com/vlmisonh/" height="45" width="45" /></a>
+	<a href="https://www.linkedin.com/in/vladyslav-misonh/" target="_blank" title="LinkedIn"><img align="center" src="https://github.com/vladmisonh/vladmisonh/blob/main/resources/linkedin.png" alt="https://www.linkedin.com/in/vladyslav-misonh/" height="45" width="45" /></a>
+	<a href="mailto:vladyslavmisonh@gmail.com" target="_blank" title="Email"><img align="center" src="https://github.com/vladmisonh/vladmisonh/blob/main/resources/gmail.png" alt="mailto:vladyslavmisonh@gmail.com" height="5" width="45" /></a>
 </p>
 
 ---
